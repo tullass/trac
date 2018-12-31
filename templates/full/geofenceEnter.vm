@@ -1,0 +1,12 @@
+#set($subject = "$device.name:Entrou na Cerca")
+<!DOCTYPE html>
+<html>
+<body>
+Caro $user.name <br><br>
+
+Carro: $device.name<br>
+Entrou na Cerca:<b style="color:red"> $geofence.name </b> <br><br>
+Time: $dateTool.format("YYYY-MM-dd HH:mm", $event.serverTime, $locale, $timezone)<br><br>
+Coordenadas: <a href="$webUrl?eventId=$event.id">#{if}($position.address)$position.address#{else}$position.latitude&deg;, $position.longitude&deg;#{end}</a><br>
+</body>
+</html>  

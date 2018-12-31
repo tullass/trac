@@ -1,0 +1,19 @@
+#set($subject = "$device.name:Excedeu limite de velocidade")
+#if($speedUnit == 'kmh')
+#set($speedValue = $position.speed * 1.852)
+#set($speedString = $numberTool.format("0.0 km/h", $speedValue))
+#elseif($speedUnit == 'mph')
+#set($speedValue = $position.speed * 1.15078)
+#set($speedString = $numberTool.format("0.0 mph", $speedValue))
+#else
+#set($speedString = $numberTool.format("0.0 km/h", $position.speed))
+#end
+<!DOCTYPE html>
+<html>
+<body>
+Carro: <b style="color:red"> $device.name </b><br><br>
+Excedeu limite de velocidade: <b style="color:red">$speedString#{if}($geofence) in $geofence.name#{else}#{end} </b><br>
+Hora: $dateTool.format("YYYY-MM-dd HH:mm:ss", $event.serverTime, $locale, $timezone)<br>
+Coordenadas: <a href="$webUrl?eventId=$event.id">#{if}($position.address)$position.address#{else}$position.latitude&deg;, $position.longitude&deg;#{end}</a><br>
+</body>
+</html>  

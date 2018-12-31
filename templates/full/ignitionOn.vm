@@ -1,0 +1,11 @@
+#set($subject = "$device.name: Ignicao Ligada")
+<!DOCTYPE html>
+<html>
+<body>
+Caro: $user.name <br><br>
+Carro :<b style="color:red"> $device.name </br></br>
+Ligou a Ignicao<br>
+Hora: $dateTool.format("YYYY-MM-dd HH:mm:ss", $event.serverTime, $locale, $timezone)<br>
+Link: <a href="$webUrl?eventId=$event.id">#{if}($position.address)$position.address#{else}$position.latitude&deg;, $position.longitude&deg;#{end}</a><br>
+</body>
+</html>  

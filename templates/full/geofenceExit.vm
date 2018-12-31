@@ -1,0 +1,11 @@
+#set($subject = "$device.name: Saiu da Cerca")
+<!DOCTYPE html>
+<html>
+<body>
+Caro $user.name <br><br>
+Carro: $device.name<br>
+Saiu da Cerca:<b style="color:red"> $geofence.name </b><br><br>
+hora: $dateTool.format("YYYY-MM-dd HH:mm", $event.serverTime, $locale, $timezone)<br>
+Coordenadas: <a href="$webUrl?eventId=$event.id">#{if}($position.address)$position.address#{else}$position.latitude&deg;, $position.longitude&deg;#{end}</a><br>
+</body>
+</html>  

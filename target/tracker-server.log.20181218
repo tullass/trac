@@ -1,0 +1,44 @@
+2018-12-18 12:43:48  INFO: Operating system name: Windows 8.1 version: 6.3 architecture: amd64
+2018-12-18 12:43:48  INFO: Java runtime name: Java HotSpot(TM) 64-Bit Server VM vendor: Oracle Corporation version: 25.45-b02
+2018-12-18 12:43:48  INFO: Memory limit heap: 1689mb non-heap: 0mb
+2018-12-18 12:43:48  INFO: Character encoding: Cp1252 charset: windows-1252
+2018-12-18 12:43:48  INFO: Version: null
+2018-12-18 12:44:03  WARN: No value specified for parameter 1 - SQLException (... < QueryBuilder:421 < DataManager:447 < BaseObjectManager:58 < ...)
+2018-12-18 12:44:03  WARN: Table 'jap.tc_user_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < SimpleObjectManager:76 < ...)
+2018-12-18 12:44:03  WARN: Table 'jap.tc_group_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < ExtendedObjectManager:76 < ...)
+2018-12-18 12:44:27  INFO: Starting server...
+2018-12-18 12:44:29  INFO: [8a3058d5] connected
+2018-12-18 12:44:29  INFO: [176c4c3d] connected
+2018-12-18 12:44:29  INFO: [6e77bbb1] connected
+2018-12-18 12:44:29  INFO: [32de20ec] connected
+2018-12-18 12:44:29  WARN: One of the protocols is disabled due to port conflict
+2018-12-18 12:44:29  INFO: [c489bc72] connected
+2018-12-18 12:44:29  INFO: [68ae802d] connected
+2018-12-18 12:44:29  INFO: [f8cd9b18] connected
+2018-12-18 12:44:29  INFO: [cbe68082] connected
+2018-12-18 12:44:29  INFO: [55a4e508] connected
+2018-12-18 12:44:29  INFO: [d22fd206] connected
+2018-12-18 12:44:29  INFO: [7aeba63f] connected
+2018-12-18 12:44:29  INFO: [f8e34ba5] connected
+2018-12-18 12:44:29  INFO: [d1a0ec99] connected
+2018-12-18 12:44:29  INFO: [a30424dc] connected
+2018-12-18 12:44:29  INFO: [b5b21557] connected
+2018-12-18 12:44:29  INFO: [dc5f5d7e] connected
+2018-12-18 12:44:29  INFO: [251b6567] connected
+2018-12-18 12:44:29  INFO: [e624c4c6] connected
+2018-12-18 12:44:30  INFO: [85b78f74] connected
+2018-12-18 12:44:30  INFO: [ef6c6b18] connected
+2018-12-18 12:44:30  INFO: [146fce43] connected
+2018-12-18 12:44:30  INFO: [cf5fe564] connected
+2018-12-18 12:44:30  INFO: [731dfe73] connected
+2018-12-18 12:44:30  INFO: [4dad2ba1] connected
+2018-12-18 12:44:30  INFO: [2fcac06f] connected
+2018-12-18 12:44:30  INFO: [fec07c0c] connected
+2018-12-18 12:44:30  INFO: [5a623193] connected
+2018-12-18 12:44:30  INFO: [d7ed94ca] connected
+2018-12-18 12:44:30  INFO: [46c7146d] connected
+2018-12-18 12:44:30  INFO: [b4f8f766] connected
+2018-12-18 12:44:30  INFO: [0ecdea5b] connected
+2018-12-18 12:44:30  INFO: [8273f68f] connected
+2018-12-18 12:44:30  INFO: [61c2fcb9] connected
+2018-12-18 12:44:30  INFO: [48239a64] connected

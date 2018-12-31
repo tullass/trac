@@ -1,0 +1,136 @@
+2018-12-01 09:21:19  INFO: Operating system name: Windows 8.1 version: 6.3 architecture: amd64
+2018-12-01 09:21:19  INFO: Java runtime name: Java HotSpot(TM) 64-Bit Server VM vendor: Oracle Corporation version: 25.45-b02
+2018-12-01 09:21:19  INFO: Memory limit heap: 1689mb non-heap: 0mb
+2018-12-01 09:21:19  INFO: Character encoding: Cp1252 charset: windows-1252
+2018-12-01 09:21:19  INFO: Version: null
+2018-12-01 09:21:42  WARN: No value specified for parameter 1 - SQLException (... < QueryBuilder:421 < DataManager:447 < BaseObjectManager:58 < ...)
+2018-12-01 09:21:42  WARN: Table 'jap.tc_user_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < SimpleObjectManager:76 < ...)
+2018-12-01 09:21:42  WARN: Table 'jap.tc_group_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < ExtendedObjectManager:76 < ...)
+2018-12-01 09:22:06  INFO: Starting server...
+2018-12-01 09:22:08  INFO: [e1ac4466] connected
+2018-12-01 09:22:08  INFO: [7a0ed794] connected
+2018-12-01 09:22:08  INFO: [33301920] connected
+2018-12-01 09:22:08  INFO: [6ce1805e] connected
+2018-12-01 09:22:08  WARN: One of the protocols is disabled due to port conflict
+2018-12-01 09:22:08  INFO: [1553944f] connected
+2018-12-01 09:22:08  INFO: [ea22efd4] connected
+2018-12-01 09:22:08  INFO: [9201d063] connected
+2018-12-01 09:22:08  INFO: [25e05517] connected
+2018-12-01 09:22:08  INFO: [9243491f] connected
+2018-12-01 09:22:08  INFO: [bd7a510e] connected
+2018-12-01 09:22:08  INFO: [eab800d8] connected
+2018-12-01 09:22:08  INFO: [02b1a317] connected
+2018-12-01 09:22:08  INFO: [974e2dee] connected
+2018-12-01 09:22:08  INFO: [08e0b47a] connected
+2018-12-01 09:22:08  INFO: [352c1362] connected
+2018-12-01 09:22:08  INFO: [c74d4090] connected
+2018-12-01 09:22:08  INFO: [0e23baef] connected
+2018-12-01 09:22:08  INFO: [956da30f] connected
+2018-12-01 09:22:08  INFO: [93858820] connected
+2018-12-01 09:22:08  INFO: [df68c62f] connected
+2018-12-01 09:22:08  INFO: [416c9a05] connected
+2018-12-01 09:22:08  INFO: [bd322852] connected
+2018-12-01 09:22:08  INFO: [db27eb6c] connected
+2018-12-01 09:22:08  INFO: [ea0e58b3] connected
+2018-12-01 09:22:08  INFO: [414a47f1] connected
+2018-12-01 09:22:08  INFO: [ee16e521] connected
+2018-12-01 09:22:08  INFO: [d1108b12] connected
+2018-12-01 09:22:08  INFO: [cd83cbdb] connected
+2018-12-01 09:22:08  INFO: [1f528b20] connected
+2018-12-01 09:22:08  INFO: [851465e8] connected
+2018-12-01 09:22:08  INFO: [cfa8865e] connected
+2018-12-01 09:22:08  INFO: [20955d08] connected
+2018-12-01 09:22:08  INFO: [03d0d2a6] connected
+2018-12-01 09:22:08  INFO: [bc3eba78] connected
+2018-12-01 09:22:11  WARN: Address already in use: bind - BindException (... < WebServer:197 < Main:40)
+2018-12-01 09:22:59  INFO: Operating system name: Windows 8.1 version: 6.3 architecture: amd64
+2018-12-01 09:22:59  INFO: Java runtime name: Java HotSpot(TM) 64-Bit Server VM vendor: Oracle Corporation version: 25.45-b02
+2018-12-01 09:22:59  INFO: Memory limit heap: 1689mb non-heap: 0mb
+2018-12-01 09:22:59  INFO: Character encoding: Cp1252 charset: windows-1252
+2018-12-01 09:22:59  INFO: Version: null
+2018-12-01 09:23:09  WARN: No value specified for parameter 1 - SQLException (... < QueryBuilder:421 < DataManager:447 < BaseObjectManager:58 < ...)
+2018-12-01 09:23:09  WARN: Table 'jap.tc_user_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < SimpleObjectManager:76 < ...)
+2018-12-01 09:23:09  WARN: Table 'jap.tc_group_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < ExtendedObjectManager:76 < ...)
+2018-12-01 09:23:11  INFO: Starting server...
+2018-12-01 09:23:12  INFO: [455a95de] connected
+2018-12-01 09:23:12  INFO: [b6389a37] connected
+2018-12-01 09:23:12  INFO: [17867fc3] connected
+2018-12-01 09:23:12  INFO: [daee97ba] connected
+2018-12-01 09:23:12  WARN: One of the protocols is disabled due to port conflict
+2018-12-01 09:23:12  INFO: [13f12a96] connected
+2018-12-01 09:23:12  INFO: [6e0282ba] connected
+2018-12-01 09:23:12  INFO: [23e7ece2] connected
+2018-12-01 09:23:12  INFO: [54caf350] connected
+2018-12-01 09:23:12  INFO: [fb2fe703] connected
+2018-12-01 09:23:12  INFO: [bd1636c7] connected
+2018-12-01 09:23:12  INFO: [fc753a54] connected
+2018-12-01 09:23:12  INFO: [0bc527ec] connected
+2018-12-01 09:23:12  INFO: [9cbf734d] connected
+2018-12-01 09:23:12  INFO: [f561b10d] connected
+2018-12-01 09:23:12  INFO: [e4a68c06] connected
+2018-12-01 09:23:12  INFO: [52c898ee] connected
+2018-12-01 09:23:12  INFO: [700cb6eb] connected
+2018-12-01 09:23:12  INFO: [70de6ea7] connected
+2018-12-01 09:23:12  INFO: [b8d6d7d7] connected
+2018-12-01 09:23:12  INFO: [98a743b3] connected
+2018-12-01 09:23:12  INFO: [2396745d] connected
+2018-12-01 09:23:12  INFO: [0012ec06] connected
+2018-12-01 09:23:12  INFO: [88442d81] connected
+2018-12-01 09:23:12  INFO: [99d2358a] connected
+2018-12-01 09:23:12  INFO: [659db416] connected
+2018-12-01 09:23:12  INFO: [446052d5] connected
+2018-12-01 09:23:12  INFO: [64bd19f5] connected
+2018-12-01 09:23:12  INFO: [f4e3fdff] connected
+2018-12-01 09:23:12  INFO: [050dc8bf] connected
+2018-12-01 09:23:12  INFO: [ba7a071c] connected
+2018-12-01 09:23:12  INFO: [674dc44d] connected
+2018-12-01 09:23:12  INFO: [dd390e44] connected
+2018-12-01 09:23:12  INFO: [8f6f8181] connected
+2018-12-01 09:23:12  INFO: [da7cd213] connected
+2018-12-01 11:38:12  INFO: user: 1, action: login
+2018-12-01 11:40:43  INFO: user: 1, action: login
+2018-12-01 20:07:51  INFO: Operating system name: Windows 8.1 version: 6.3 architecture: amd64
+2018-12-01 20:07:51  INFO: Java runtime name: Java HotSpot(TM) 64-Bit Server VM vendor: Oracle Corporation version: 25.45-b02
+2018-12-01 20:07:51  INFO: Memory limit heap: 1689mb non-heap: 0mb
+2018-12-01 20:07:51  INFO: Character encoding: Cp1252 charset: windows-1252
+2018-12-01 20:07:51  INFO: Version: null
+2018-12-01 20:08:17  WARN: No value specified for parameter 1 - SQLException (... < QueryBuilder:421 < DataManager:447 < BaseObjectManager:58 < ...)
+2018-12-01 20:08:17  WARN: Table 'jap.tc_user_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < SimpleObjectManager:76 < ...)
+2018-12-01 20:08:17  WARN: Table 'jap.tc_group_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < ExtendedObjectManager:76 < ...)
+2018-12-01 20:08:24  INFO: Starting server...
+2018-12-01 20:08:28  INFO: [478f32ca] connected
+2018-12-01 20:08:28  INFO: [fbbe1b65] connected
+2018-12-01 20:08:28  INFO: [0a01defe] connected
+2018-12-01 20:08:28  INFO: [7fffbd53] connected
+2018-12-01 20:08:28  WARN: One of the protocols is disabled due to port conflict
+2018-12-01 20:08:28  INFO: [6d29fae3] connected
+2018-12-01 20:08:28  INFO: [6867aaaf] connected
+2018-12-01 20:08:28  INFO: [00d81077] connected
+2018-12-01 20:08:28  INFO: [b1737d51] connected
+2018-12-01 20:08:28  INFO: [ef5a4b8b] connected
+2018-12-01 20:08:28  INFO: [1313c0a2] connected
+2018-12-01 20:08:28  INFO: [5359b0b5] connected
+2018-12-01 20:08:29  INFO: [7d4dae3b] connected
+2018-12-01 20:08:29  INFO: [a36fcd8b] connected
+2018-12-01 20:08:29  INFO: [8747a03e] connected
+2018-12-01 20:08:29  INFO: [136a0cca] connected
+2018-12-01 20:08:29  INFO: [f876a79a] connected
+2018-12-01 20:08:29  INFO: [04f7a21c] connected
+2018-12-01 20:08:29  INFO: [2d24781c] connected
+2018-12-01 20:08:29  INFO: [bd14d878] connected
+2018-12-01 20:08:29  INFO: [e81c2804] connected
+2018-12-01 20:08:29  INFO: [6410c8cd] connected
+2018-12-01 20:08:29  INFO: [e08d1f65] connected
+2018-12-01 20:08:29  INFO: [ec3d1e9d] connected
+2018-12-01 20:08:29  INFO: [a61bb162] connected
+2018-12-01 20:08:29  INFO: [7ae7051f] connected
+2018-12-01 20:08:29  INFO: [f4f86f30] connected
+2018-12-01 20:08:29  INFO: [8cb3f83d] connected
+2018-12-01 20:08:29  INFO: [4c36069f] connected
+2018-12-01 20:08:29  INFO: [3bbc4652] connected
+2018-12-01 20:08:29  INFO: [3b5adca7] connected
+2018-12-01 20:08:29  INFO: [1c5b741b] connected
+2018-12-01 20:08:29  INFO: [19de34e4] connected
+2018-12-01 20:08:29  INFO: [850fcea9] connected
+2018-12-01 20:08:29  INFO: [bbe06e1e] connected
+2018-12-01 20:09:01  INFO: user: 1, action: login

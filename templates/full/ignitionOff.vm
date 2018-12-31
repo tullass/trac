@@ -1,0 +1,10 @@
+#set($subject = "$device.name: ignicao desligada")
+<!DOCTYPE html>
+<html>
+<body>
+Carro: <b style="color:red"> $device.name </b> <br><br>
+Desligou a Ignicao<br>
+hora: $dateTool.format("YYYY-MM-dd HH:mm:ss", $event.serverTime, $locale, $timezone)<br>
+Link: <a href="$webUrl?eventId=$event.id">#{if}($position.address)$position.address#{else}$position.latitude&deg;, $position.longitude&deg;#{end}</a><br>
+</body>
+</html>  

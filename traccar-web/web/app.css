@@ -1,0 +1,256 @@
+.view-color-green{
+    background-color:rgba(77,198,249,.3) !important
+}
+.view-color-red {
+    background-color:rgba(255,84,104,.3) !important
+}
+.view-color-yellow{
+    background-color:rgba(255,84,104,.3) !important
+}
+
+
+
+
+.toolbar-header-style,
+.x-panel-header-default,
+.x-panel-header-default-vertical,
+.x-panel-header-default .x-tool-img,
+.x-window-header-default .x-tool-img {
+	border-color: #141313 !important;
+    background-color:#141313 !important;
+}
+
+.x-window-header-default-top,.x-window-header-default-bottom  {
+	border-color: #141313!important;
+    background-color: transparent !important;
+}
+
+.x-btn-default-small{
+	border-color: #ffa8a8 !important;
+    background-color: #3a3737 !important;
+}
+
+.x-btn-default-small {
+  border: none;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.5s;
+}
+
+.x-btn-default-toolbar-small{
+	border-radius: 50px !important;
+}
+
+body.x-border-layout-ct,div.x-border-layout-ct{
+    background-color:transparent!important
+}
+.x-fieldset{
+    overflow:visible!important
+}
+
+#attribution {
+    position: absolute;
+    bottom: 10px;
+    right: 15px;
+    font-size: x-small;
+}
+
+#spinner:before {
+    content: 'x x';
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: -30px;
+    margin-left: -30px;
+    border-radius: 50%;
+    border-top: 6px solid #5fa2dd;
+    border-right: 6px solid;
+    animation: spinner .8s linear infinite;
+	font-family: courier new;
+    font-size: 0.7em;
+    font-weight: 200;
+}
+
+@keyframes spinner {
+    to {
+        transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes rotation{
+    from{
+        -webkit-transform:rotate(0deg)
+    }
+    to{
+        -webkit-transform:rotate(359deg)
+    }
+}
+@-moz-keyframes rotation{
+    from{
+        -moz-transform:rotate(0deg)
+    }
+    to{
+        -moz-transform:rotate(359deg)
+    }
+}
+@-o-keyframes rotation{
+    from{
+        -o-transform:rotate(0deg)
+    }
+    to{
+        -o-transform:rotate(359deg)
+    }
+}
+@keyframes rotation{
+    from{
+        transform:rotate(0deg)
+    }
+    to{
+        transform:rotate(359deg)
+    }
+}
+
+/** logo principal **/
+.logo_main {
+	width: 125px;
+	height:45px;
+}
+
+
+
+
+/** popup veiculo **/
+
+.ol-popup {
+        position: absolute;
+        background-color: white;
+        -webkit-filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+        filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+        padding: 15px;
+        border-radius: 10px;
+        border: 1px solid #cccccc;
+        bottom: 12px;
+        left: -50px;
+        min-width: 260px;
+		display:none;
+      }
+      .ol-popup:after, .ol-popup:before {
+        top: 100%;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+      }
+      .ol-popup:after {
+        border-top-color: white;
+        border-width: 10px;
+        left: 48px;
+        margin-left: -10px;
+      }
+      .ol-popup:before {
+        border-top-color: #cccccc;
+        border-width: 11px;
+        left: 48px;
+        margin-left: -11px;
+      }
+      .ol-popup-closer {
+        text-decoration: none;
+        position: absolute;
+        top: 2px;
+        right: 8px;
+      }
+      .ol-popup-closer:after {
+        content: "✖";
+      }
+	  	
+body {
+    background: url('background.jpg') no-repeat center top fixed!important;
+    -webkit-background-size: cover!important;
+    -moz-background-size: cover!important;
+    -o-background-size: cover!important;
+    background-size: cover!important
+}
+
+
+/** street view **/
+.street-view {
+    position: absolute;    
+    right:0;
+	bottom:0;
+    width: 450px;
+	height: 400px;
+    background: rgba(255, 255, 255, .0);   
+    border-radius: 8px 0 0 8px;
+    text-align: center;
+    color: #fff;
+	z-index: 999999;
+	display:none;
+}
+
+@media (max-width:420px){
+	.logo_main {
+		width: 90px;
+		height:30px;
+	}
+	
+	a[id*="button-"] {
+		width:26px;
+	}
+	
+	.street-view {
+		position: absolute;    
+		left:0;
+		bottom:0;
+		width: 180px;
+		height: 120px;
+		background: rgba(255, 255, 255, .0);   
+		border-radius: 8px 0 0 8px;
+		text-align: center;
+		color: #fff;
+		z-index: 999999;
+		display:none;
+	}
+		
+}
+
+/** botoes arrendadados **/
+
+.x-fieldset-header-tool-default>.x-tool-toggle {
+    font: 10px/1 FontAwesome!important;
+    color: red !important;
+    background: white!important;
+    padding: 2px 0!important;
+    border-radius: 100%!important
+}
+
+.x-toolbar .x-btn {
+    border-radius: 20px!important;
+    border: none!important;
+    color: black!important
+}
+
+
+
+
+
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: small;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+
+[id^="login_form"] .x-window-body-default,[id^="login_form"] .x-panel-body-default{background-color:rgba(0,0,0,.15)!important;left:-1px!important;width:calc(100% + 1px)!importantopacity:.5}[id^="login_form"] .x-window-default{border-color:#222!important;border-width:10px!important;box-shadow:0 0 50px rgba(99,99,99,.38823529411764707)!important}.x-window{background-color:rgba(0,0,0,.15)!important;border-width:0px!important}[id^="login_form"] .x-form-item-label-text{color:#fff}[id^="login_form"] .x-toolbar-footer{background-color:rgba(0,0,0,.15)!important}

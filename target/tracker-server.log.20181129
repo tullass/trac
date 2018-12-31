@@ -1,0 +1,45 @@
+2018-11-29 15:41:44  INFO: Operating system name: Windows 8.1 version: 6.3 architecture: amd64
+2018-11-29 15:41:44  INFO: Java runtime name: Java HotSpot(TM) 64-Bit Server VM vendor: Oracle Corporation version: 25.45-b02
+2018-11-29 15:41:44  INFO: Memory limit heap: 1689mb non-heap: 0mb
+2018-11-29 15:41:44  INFO: Character encoding: Cp1252 charset: windows-1252
+2018-11-29 15:41:44  INFO: Version: null
+2018-11-29 15:42:18  WARN: No value specified for parameter 1 - SQLException (... < QueryBuilder:421 < DataManager:447 < BaseObjectManager:58 < ...)
+2018-11-29 15:42:18  WARN: Table 'jap.tc_user_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < SimpleObjectManager:76 < ...)
+2018-11-29 15:42:18  WARN: Table 'jap.tc_group_position' doesn't exist - SQLSyntaxErrorException (... < QueryBuilder:496 < DataManager:428 < ExtendedObjectManager:76 < ...)
+2018-11-29 15:42:59  INFO: Starting server...
+2018-11-29 15:43:02  INFO: [497e40bb] connected
+2018-11-29 15:43:02  INFO: [91e42abf] connected
+2018-11-29 15:43:02  INFO: [799b3db3] connected
+2018-11-29 15:43:02  INFO: [bbbc8135] connected
+2018-11-29 15:43:02  WARN: One of the protocols is disabled due to port conflict
+2018-11-29 15:43:02  INFO: [a4f71630] connected
+2018-11-29 15:43:02  INFO: [964788d8] connected
+2018-11-29 15:43:02  INFO: [6328673f] connected
+2018-11-29 15:43:02  INFO: [8ae3fe04] connected
+2018-11-29 15:43:02  INFO: [9f8a8d07] connected
+2018-11-29 15:43:02  INFO: [1f86f607] connected
+2018-11-29 15:43:02  INFO: [9c316dd3] connected
+2018-11-29 15:43:03  INFO: [1b28868a] connected
+2018-11-29 15:43:03  INFO: [bb94c387] connected
+2018-11-29 15:43:03  INFO: [cec8de27] connected
+2018-11-29 15:43:03  INFO: [88259349] connected
+2018-11-29 15:43:03  INFO: [f14e792b] connected
+2018-11-29 15:43:03  INFO: [756143b4] connected
+2018-11-29 15:43:03  INFO: [9a7c469d] connected
+2018-11-29 15:43:03  INFO: [dac58f82] connected
+2018-11-29 15:43:03  INFO: [0f482830] connected
+2018-11-29 15:43:03  INFO: [e4d82040] connected
+2018-11-29 15:43:03  INFO: [c464bcd9] connected
+2018-11-29 15:43:03  INFO: [4bdfe739] connected
+2018-11-29 15:43:03  INFO: [a687d5b9] connected
+2018-11-29 15:43:03  INFO: [ef12a646] connected
+2018-11-29 15:43:03  INFO: [ea88ff75] connected
+2018-11-29 15:43:03  INFO: [b7b44122] connected
+2018-11-29 15:43:03  INFO: [8b53a25a] connected
+2018-11-29 15:43:03  INFO: [57e906fa] connected
+2018-11-29 15:43:03  INFO: [206d6101] connected
+2018-11-29 15:43:03  INFO: [6260d3ab] connected
+2018-11-29 15:43:03  INFO: [4e340700] connected
+2018-11-29 15:43:03  INFO: [073988a1] connected
+2018-11-29 15:43:03  INFO: [59dcdc3c] connected
+2018-11-29 21:55:07  INFO: user: 1, action: login

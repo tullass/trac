@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE properties SYSTEM 'http://java.sun.com/dtd/properties.dtd'>
+
+<properties>
+
+    <entry key='config.default'>./setup/default.xml</entry>
+
+    <entry key='web.path'>./traccar-web/web</entry>
+    <entry key='web.debug'>true</entry>
+    <entry key='web.console'>true</entry>
+
+    <entry key='geocoder.enable'>true</entry>
+
+    <entry key='logger.file'>target/tracker-server.log</entry>
+
+      <entry key='database.driver'>com.mysql.jdbc.Driver</entry>
+    <entry key='database.url'>jdbc:mysql://localhost:3306/jap</entry>
+    <entry key='database.user'>root</entry>
+    <entry key='database.password'>000ste</entry>
+
+    <entry key='intellitrac.port'>6037</entry>
+	
+
+	<entry key='mail.smtp.host'>smtp.gmail.com</entry>
+	<entry key='mail.smtp.port'>587</entry>
+	<entry key='mail.smtp.starttls.enable'>true</entry>
+	<entry key='mail.smtp.from'>miuastelio@gmail.com</entry>
+	<entry key='mail.smtp.auth'>true</entry>
+	<entry key='mail.smtp.username'>miuastelio@gmail.com</entry>
+	<entry key='mail.smtp.password'>00000stee</entry>
+	
+	
+	
+    <!--<entry key='ldap.enable'>true</entry>
+    <entry key='ldap.url'>ldap://ldap.forumsys.com:389</entry>
+    <entry key='ldap.context'>dc=example,dc=com</entry>-->
+
+</properties>

@@ -1,0 +1,7 @@
+#set($subject = "Email de teste")
+<!DOCTYPE html>
+<html>
+<body>
+Teste de email aceite com
+</body>
+</html> 

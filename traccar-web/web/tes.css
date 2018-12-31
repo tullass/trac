@@ -1,0 +1,11 @@
+
+
+.x-btn.x-btn-menu-active.x-btn-default-toolbar-small, .x-btn.x-btn-pressed.x-btn-default-toolbar-small {
+    border-color: #282626 !important ;
+    background-image: none;
+    background-color: #ffa8a8 !important;
+	x-btn-inner x-btn-inner-default-toolbar-small !important;
+	
+}
+
+
